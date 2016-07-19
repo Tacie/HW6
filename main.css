@@ -53,7 +53,7 @@ div{
     border-right: 0px;
     margin-left: -5px;
     padding: 0.5em 1em;
-    width: 25%;
+    width: 20%;
     box-sizing: border-box;
     position: relative;
 }
@@ -82,9 +82,10 @@ div{
 .nav>li:hover .submenu{
     display:block;
 }
-img{width: 40px;
-    height: 40px;
+img{width: 80px;
+    height: 80px;
     float: right;
     position: fixed;
-    right: 0px;
+    right: 10px;
+    bottom: 10px;
 }
